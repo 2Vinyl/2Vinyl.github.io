@@ -1,6 +1,6 @@
 # 築城記
 
-![vinyl](data/Last.jpg)
+![vinyl](data/Last.png)
 - 原声 *Soundtrack*
 - 築城記 
 - 格式 Format 320kps MP3
